@@ -8,8 +8,6 @@ Additional explanation.
 
 # TO-DO
 The recent item is sorted upper side.  
-### <code>On-going</code>   **StyleGAN2 Setting**  
-I use pre-trained StyleGAN2 model of [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) which is 550k trained using FFHQ dataset.
 
 ### <code>On-going</code>   **StyleLipSync Implementation**  
 I implement same architecture of StyleLipSync model follows [original paper](https://stylelipsync.github.io/)  
@@ -21,6 +19,9 @@ I implement same architecture of StyleLipSync model follows [original paper](htt
 
 ### <code>On-going</code>   **Test for HDTF dataset**  
 I test the result using HDTF(Cross-ID) for 300 videos
+
+### <code>2023/10/31</code>   **StyleGAN2 Setting**  
+I use pre-trained StyleGAN2 model of [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) which is 550k trained using FFHQ dataset.
 
 ### <code>2023/10/30</code>   **Pose-aware Masking**  
 I use same 3D face reconstruction model but implement different way.  
